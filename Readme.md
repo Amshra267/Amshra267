@@ -7,7 +7,7 @@
 Myself Aman Mishra, I am very fascinated with the way Mathematics is ruling the world. I also want to contribute something through mathematical stuffs therefore I am working on real life mathematical applications in the field of Artificial Intelligence. I like to play cricket in free time and believe it or not I am a good speaker and debater also. 
 </br>
 
-- 🌱 I’m currently learning pybullet, ROS and reinforcement learning.
+- 🌱 I’m currently learning pybullet, reinforcement learning.
 - 👯 I’m looking for College Reopening desperately. 
 - 💬 Ask me about Vector calculus.
 - 📫 How to reach me: By Mail 
@@ -29,7 +29,6 @@ Myself Aman Mishra, I am very fascinated with the way Mathematics is ruling the 
 <code>
 <img src="https://github.com/github/explore/raw/master/topics/tensorflow/tensorflow.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/python/python.png" width="40" height="40" /> 
-<img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
 <img src="https://github.com/github/explore/raw/master/topics/cpp/cpp.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/opencv/opencv.png" width="40" height="40" />
 <img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" width="40" height="40" />
