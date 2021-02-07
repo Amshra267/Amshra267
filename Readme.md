@@ -4,10 +4,10 @@
 
 ### About me
 </br>
-Myself Aman Mishra, I am very fascinated with the way Mathematics is ruling the world. I also want to contribute something through mathematical stuffs therefore I am working on real life mathematical applications in the field of Artificial Intelligence. I like to play cricket in free time and believe it or not I am a good speaker and debater also. 
+Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world. I also want to contribute something through mathematical stuffs therefore I am working on real life mathematical applications in the field of Artificial Intelligence. Other than this i am leaning Digital Electronics. In mean time, like to play cricket and believe it or not I am a good speaker and debater also. 
 </br>
 
-- 🌱 I’m currently learning pybullet, reinforcement learning.
+- 🌱 I’m currently learning about FPGAs and digital electronics.
 - 👯 I’m looking for College Reopening desperately. 
 - 💬 Ask me about Vector calculus.
 - 📫 How to reach me: By Mail 
@@ -32,7 +32,6 @@ Myself Aman Mishra, I am very fascinated with the way Mathematics is ruling the 
 <img src="https://github.com/github/explore/raw/master/topics/cpp/cpp.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/opencv/opencv.png" width="40" height="40" />
 <img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" width="40" height="40" />
-<img src="https://github.com/github/explore/raw/master/topics/r/r.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/master/topics/git/git.png" width="40" height="40" /> 
 </code><hr/>
