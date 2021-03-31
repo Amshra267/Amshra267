@@ -30,7 +30,7 @@ Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72CIAMHyYY9YTuJjVV4nh12t1vnSan4bfiURrShKfuKvGd7sj7dao7r9Ngyjrc1x8pWM&usqp=CAU" width="40" height="40" />
 <img src="https://www.tensorflow.org/resources/images/tf-logo-card-16x9.png" width="40" height="40" /> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiCP3Ms3TQrWd-detRepBx7zuDAj5eKeI9gMjPWk5AOBz7-ohP8LbIZTpb0bx2mjv0c4&usqp=CAU" width="40" height="40" /> 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170888.png" width="40" height="40" />
+<img src="https://symbols-electrical.getvecta.com/stencil_90/39_opencv-icon.bed55cce11.jpg" width="40" height="40" />
 <img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" width="40" height="40" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ttyADGIdgiNJLZOHmPDcAgswJQUa4M_xg8cp1cxXpMh4TpG44xUJxPwKllwRPmIjIsM&usqp=CAU" width="40" height="40" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwBdkdstwoTak-rTwCZPXW8lj1vWhAh8sCuA&usqp=CAU" width="40" height="40" /> 
