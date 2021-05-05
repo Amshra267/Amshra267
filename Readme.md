@@ -46,7 +46,7 @@ Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world
 <p align=center><b>Reach me via</b>
     <br><br>
     <a href="https://www.facebook.com/Amshra267" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-32.png"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/amanmishra 1909/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-32.png"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/amanmishra1909/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-32.png"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/aman-mishra-a0b7881aa" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/Amshra267" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-32.png"></a>
 </p>
