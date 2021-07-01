@@ -39,8 +39,8 @@ Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world
 
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amshra267&show_icons=true&theme=tokyonight"alt="Github stats" width=45%>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amshra267&theme=tokyonight" alt="Streak" width=45%>
+    <img src="https://github-readme-stats.vercel.app/api?username=Amshra267&show_icons=true&theme=tokyonight&count_private=true&show_icons=true"alt="Github stats" width=45%>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amshra267&theme=tokyonight&count_private=true&show_icons=true" alt="Streak" width=45%>
     <br>
 </div>
 
