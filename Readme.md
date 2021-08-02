@@ -7,7 +7,7 @@
 Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world. I also want to contribute something through mathematical stuffs therefore I am working on real life mathematical applications in the field of Artificial Intelligence. Other than this i am leaning Digital Electronics. In mean time, like to play cricket and believe it or not I am a good speaker and debater also. 
 </br>
 
-- 🌱 I’m currently learning about ROS, Quadrotors and Wireless Communication.
+- 🌱 I’m currently learning about ROS
 - 👯 I’m looking for College Reopening desperately. 
 - 💬 Ask me about Vector calculus.
 - 📫 How to reach me: By Mail 
