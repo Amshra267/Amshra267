@@ -10,7 +10,7 @@ Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world
 - 🌱 I’m currently learning about ROS
 - 👯 I’m looking for College Reopening desperately. 
 - 💬 Ask me about Vector calculus.
-- 📫 How to reach me: By Mail 
+- 📫 How to reach me: By Mail at aman[dot]mishra[dot]ece19[at]itbhu[dot]ac[dot]in
 - ⚡ Fun fact: I finished two probabilities and statistics books in just three days along with implementation in python!!
 
 ### Areas of Interest
