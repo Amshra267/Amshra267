@@ -4,11 +4,11 @@
 
 ### About me
 </br>
-Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world. I also want to contribute something through mathematical stuffs therefore I am working on real life mathematical applications in the field of Artificial Intelligence. Other than this i am leaning Digital Electronics. In mean time, like to play cricket and believe it or not I am a good speaker and debater also. 
+Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world. I also want to contribute something through mathematical stuffs therefore I am working on real life mathematical applications in the field of Artificial Intelligence. In mean time, like to play cricket and believe it or not I am a good speaker and debater also. 
 </br>
 
-- 🌱 I’m currently learning about ROS
-- 👯 I’m looking for College Reopening desperately. 
+- 🌱 I’m currently Working in a Robotics Startup
+- 👯 I’m looking for Some free time. 
 - 💬 Ask me about Vector calculus.
 - 📫 How to reach me: By Mail at aman[dot]mishra[dot]ece19[at]itbhu[dot]ac[dot]in
 - ⚡ Fun fact: I finished two probabilities and statistics books in just three days along with implementation in python!!
@@ -16,7 +16,7 @@ Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world
 ### Areas of Interest
 
 <p  <br><br>
-     <img src="https://img.shields.io/badge/Core Mathematics-blueviolet">
+    <img src="https://img.shields.io/badge/Core Mathematics-blueviolet">
     <img src="https://img.shields.io/badge/Robotics-blueviolet">
     <img src="https://img.shields.io/badge/Deep Learning-Computer Vision-blue">
     <img src="https://img.shields.io/badge/Reinforcement Learning-important">
