@@ -7,7 +7,7 @@
 Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world. I also want to contribute something through mathematical stuffs therefore I am working on real life mathematical applications in the field of Artificial Intelligence. In mean time, like to play cricket and believe it or not I am a good speaker and debater also. 
 </br>
 
-- 🌱 I’m currently Working in a Robotics Startup
+- 🌱 I’m currently in my 4th year of B.Tech
 - 👯 I’m looking for Some free time. 
 - 💬 Ask me about Vector calculus.
 - 📫 How to reach me: By Mail at aman[dot]mishra[dot]ece19[at]itbhu[dot]ac[dot]in
