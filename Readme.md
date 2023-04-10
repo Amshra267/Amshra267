@@ -39,7 +39,7 @@ Myself Aman Mishra, I am fascinated with the way Mathematics is ruling the world
 <!-- 
 <br> -->
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amshra267&show_icons=true&theme=tokyonight&count_private=true&show_icons=true"alt="Github stats" width=45%>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amshra267&show_icons=true&theme=tokyonight&count_private=true&show_icons=true"alt="Github stats" width=45%>
 </p>
 
 
